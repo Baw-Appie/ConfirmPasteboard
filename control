@@ -1,0 +1,9 @@
+Package: com.rpgfarm.confirmpasteboard
+Name: ConfirmPasteboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), applist
